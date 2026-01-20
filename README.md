@@ -1,6 +1,7 @@
 👋 Hakkımda
 
 🎓 İstanbul Gelişim Üniversitesi
+
 ⚡ Elektrik Elektronik Mühendisliği – 3. Sınıf
 
 Merhaba!
