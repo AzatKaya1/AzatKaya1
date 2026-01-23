@@ -26,6 +26,6 @@ Her zaman öğretmeye ve öğrenmeye açığım.
 
 📫 Aşağıdaki bağlantılardan bana ulaşabilirsin.
 
-[LinkedIn](www.linkedin.com/in/azatkaya1)
+[LinkedIn](https://www.linkedin.com/in/azatkaya1/)
 
 [Instagram](https://www.instagram.com/azaatkaya?igsh=Z3c1eGFiMzlva2l3&utm_source=qr)
