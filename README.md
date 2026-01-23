@@ -1,4 +1,4 @@
-👋 Merhaba! Ben Azat KAYA
+#👋 Merhaba! Ben Azat KAYA
 
 ------------------------------------------
 🎓 İstanbul Gelişim !Üniversitesi
