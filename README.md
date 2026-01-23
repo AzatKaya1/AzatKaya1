@@ -24,7 +24,7 @@ Kariyer hedefim ise otonom sistemler başta olmak üzere savunma, ulaşım, end�
 📌  LinkedIn aracılığıyla veya Instagram üzerinden benimle iletişime geçebilirsin.
 Her zaman öğretmeye ve öğrenmeye açığım.
 
-📫 Aşağıdaki bağlantılardan bana ulaş
+📫 Aşağıdaki bağlantılardan bana ulaşabilirsin.
 
 [LinkedIn](www.linkedin.com/in/azatkaya1)
 
