@@ -4,8 +4,8 @@ Elektrik Elektronik Mühendisliği lisans eğitimime devam ediyorum. Otonom sist
 
 Kariyer hedefim ise otonom sistemler başta olmak üzere savunma, ulaşım, endüstri ve akıllı sistemler alanlarında, yazılım dillerini aktif kullanarak elektronik temelli projeler geliştiren bir mühendis olmaktır.
 
-## 🎓 İstanbul Gelişim Üniversitesi
-## ⚡ Elektrik Elektronik Mühendisliği – 3. Sınıf
+# 🎓 İstanbul Gelişim Üniversitesi
+# ⚡ Elektrik Elektronik Mühendisliği – 3. Sınıf
 
 🛠️ İlgi Alanlarım
 
