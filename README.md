@@ -8,16 +8,23 @@ Kariyer hedefim ise otonom sistemler başta olmak üzere savunma, ulaşım, end�
 ## ⚡ Elektrik Elektronik Mühendisliği – 3. Sınıf
 
 🛠️ İlgi Alanlarım
+
 	•	🤖 Otonom ve akıllı sistemler
+	
 	•	💻 Yazılım & Donanım entegrasyonu
+	
 	•	⚡ Gömülü sistemler
+	
 	•	🧠 Algoritmalar & kontrol sistemleri
+	
 	•	🚗 Otonom araç teknolojileri
+	
 	•	🔬 Ar-Ge ve mühendislik projeleri
 
 📫 Bana Ulaş
 
 [LinkedIn](www.linkedin.com/in/azatkaya1)
+
 [Instagram](https://www.instagram.com/azaatkaya?igsh=Z3c1eGFiMzlva2l3&utm_source=qr)
 
 
