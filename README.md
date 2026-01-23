@@ -1,7 +1,7 @@
-#👋 Merhaba! Ben Azat KAYA
+# 👋 Merhaba! Ben Azat KAYA
 
 ------------------------------------------
-🎓 İstanbul Gelişim !Üniversitesi
+## 🎓 İstanbul Gelişim !Üniversitesi
 
 ⚡ Elektrik Elektronik Mühendisliği – 3. Sınıf
 
