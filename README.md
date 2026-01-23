@@ -1,12 +1,25 @@
 # 👋 Merhaba! Ben Azat KAYA
 
-------------------------------------------
-## 🎓 İstanbul Gelişim !Üniversitesi
+Elektrik Elektronik Mühendisliği lisans eğitimime devam ediyorum. Otonom sistemler, gömülü sistemler ve yazılım-donanım entegrasyonu alanlarında kendimi geliştirmeye odaklanan bir mühendis adayıyım.
 
-⚡ Elektrik Elektronik Mühendisliği – 3. Sınıf
+Kariyer hedefim ise otonom sistemler başta olmak üzere savunma, ulaşım, endüstri ve akıllı sistemler alanlarında, yazılım dillerini aktif kullanarak elektronik temelli projeler geliştiren bir mühendis olmaktır.
 
-Merhaba!
-Elektrik Elektronik Mühendisliği lisans eğitimime devam ederken, otonom sistemler, gömülü sistemler ve yazılım-donanım entegrasyonu alanlarında kendimi geliştirmeye odaklanan bir mühendis adayıyım.
+## 🎓 İstanbul Gelişim Üniversitesi
+## ⚡ Elektrik Elektronik Mühendisliği – 3. Sınıf
 
-🚀 Kariyer hedefim;
-otonom sistemler başta olmak üzere savunma, ulaşım, endüstri 4.0 ve akıllı sistemler alanlarında, yazılım dillerini aktif kullanarak elektronik temelli projeler geliştiren bir mühendis olmak.
+🛠️ İlgi Alanlarım
+	•	🤖 Otonom ve akıllı sistemler
+	•	💻 Yazılım & Donanım entegrasyonu
+	•	⚡ Gömülü sistemler
+	•	🧠 Algoritmalar & kontrol sistemleri
+	•	🚗 Otonom araç teknolojileri
+	•	🔬 Ar-Ge ve mühendislik projeleri
+
+📫 Bana Ulaş
+
+[LinkedIn](www.linkedin.com/in/azatkaya1)
+[Instagram](https://www.instagram.com/azaatkaya?igsh=Z3c1eGFiMzlva2l3&utm_source=qr)
+
+
+📌  LinkedIn aracılığıyla veya Instagram üzerinden benimle iletişime geçebilirsin.
+Her zaman öğretmeye ve öğrenmeye açığım.
