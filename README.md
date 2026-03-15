@@ -33,17 +33,17 @@
 * İTÜ Robotics Kulübü bünyesinde düzenlenen ROS2 eğitimi kapsamında ArduPilot tabanlı drone kontrol simülasyonu geliştirdim. 
 * ROS2 ile Gazebo simülasyon ortamını entegre ederek kalkış, iniş ve yön değiştirme gibi uçuş hareketlerini modelledim. 
 * ROS2 topic ve node yapısını kullanarak drone'a komut gönderme ve veri okuma altyapısı kurdum.
+  
+**⚡ KiCad PCB Tasarım Projesi (Şubat 2026)**
+* İTÜ Robotics Kulübü eğitimi kapsamında datasheet incelemeleri yaparak elektronik şematik tasarımlar oluşturdum. 
+* Bu tasarımları PCB ortamına taşıyarak routing işlemlerini ve katman yönetimini sağladım. 
+* Motor sürücü devresi ve Sequential Timer projelerini tamamladım ve üretici gereksinimlerine uygun olarak Gerber dosyalarını dışa aktardım.
 
 **🤖 ESP32 Tabanlı Yapay Zeka Robotu (Kasım 2025)**
 * ESP32 mikrodenetleyicisi üzerine yapay zeka tabanlı bir sesli asistan robotu inşa ettim. 
 * I2C protokolü ile OLED ekran entegre ederek cihazın durumunu gerçek zamanlı olarak görüntüledim. 
 * Mikrofon modülü üzerinden alınan sesi yapay zeka API'sine gönderdim ve amplifikatör devresiyle optimize edilmiş hoparlör üzerinden sesli yanıtlar aldım. 
 * Wi-Fi protokolü aracılığıyla Doğal Dil İşleme (NLP) yeteneklerini sisteme dahil ettim.
-
-**⚡ KiCad PCB Tasarım Projesi (Şubat 2026)**
-* İTÜ Robotics Kulübü eğitimi kapsamında datasheet incelemeleri yaparak elektronik şematik tasarımlar oluşturdum. 
-* Bu tasarımları PCB ortamına taşıyarak routing işlemlerini ve katman yönetimini sağladım. 
-* Motor sürücü devresi ve Sequential Timer projelerini tamamladım ve üretici gereksinimlerine uygun olarak Gerber dosyalarını dışa aktardım.
 
 ---
 
