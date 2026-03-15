@@ -1,13 +1,12 @@
 # Merhaba, Ben Azat KAYA! 
 
 
-İstanbul Gelişim Üniversitesi Elektrik-Elektronik Mühendisliği bölümünde lisans eğitimime devam ediyorum (2023-2027). Savunma sanayii teknolojileri kapsamında gömülü sistemler ve robotik yazılım geliştirme alanlarında kariyer hedefleyen tutkulu bir mühendis adayıyım. 
+İstanbul Gelişim Üniversitesi Elektrik-Elektronik Mühendisliği bölümünde lisans eğitimine devam eden, savunma sanayii teknolojileri kapsamında gömülü sistemler ve robotik yazılım geliştirme alanlarında kariyer hedefleyen tutkulu bir mühendis adayıyım. 
 
 ## 🚀 Neler Yapıyorum?
-* **STM32** mikrodenetleyicileri ile donanım seviyesinde gömülü yazılım projeleri geliştiriyorum.
-* **ESP32** ile Wi-Fi ve Bluetooth protokolleri üzerinden yapay zeka tabanlı IoT uygulamaları tasarlıyorum.
 * **ROS2** ve **Gazebo** kullanarak otonom robotik sistemlerin simülasyonu üzerine aktif olarak çalışıyorum.
-
+* **ESP32** ile Wi-Fi ve Bluetooth protokolleri üzerinden yapay zeka tabanlı IoT uygulamaları tasarlıyorum.
+* **STM32** mikrodenetleyicileri ile donanım seviyesinde gömülü yazılım projeleri geliştiriyorum.
 ## 🛠️ Teknoloji Yığını ve Yetenekler
 
 ### Diller
