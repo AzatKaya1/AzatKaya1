@@ -1,4 +1,5 @@
 # Merhaba, Ben Azat Kaya! 👋
+![Profile Views](https://komarev.com/ghpvc/?username=AzatKayal&color=00599C&style=flat-square&label=ZİYARETÇİ+SAYISI)
 
 İstanbul Gelişim Üniversitesi Elektrik-Elektronik Mühendisliği bölümünde lisans eğitimime devam ediyorum (2023-2027). Savunma sanayii teknolojileri kapsamında gömülü sistemler ve robotik yazılım geliştirme alanlarında kariyer hedefleyen tutkulu bir mühendis adayıyım. 
 
@@ -24,6 +25,13 @@
 ![ROS2](https://img.shields.io/badge/ros2-%2322314E.svg?style=for-the-badge&logo=ros&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-FFB800?style=for-the-badge&logo=gazebo&logoColor=white)
 
+## 📊 GitHub İstatistiklerim
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AzatKayal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub İstatistikleri" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzatKayal&layout=compact&theme=tokyonight&hide_border=true" alt="En Çok Kullanılan Diller" />
+</div>
+
 ## 💻 Öne Çıkan Projeler
 
 **🚁 ROS2 & Gazebo Drone Kontrol Simülasyonu (Mart 2026)**
@@ -42,10 +50,18 @@
 * Bu tasarımları PCB ortamına taşıyarak routing işlemlerini ve katman yönetimini sağladım. 
 * Motor sürücü devresi ve Sequential Timer projelerini tamamladım ve üretici gereksinimlerine uygun olarak Gerber dosyalarını dışa aktardım.
 
+---
+
 ## 📬 İletişim & Bağlantılar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/azatkayal)
-[![Email](https://img.shields.io/badge/Email-kaya58azat@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaya58azat@gmail.com)
+<div align="center">
+  <a href="https://linkedin.com/in/azatkayal">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:kaya58azat@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kaya58azat@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
 📌  LinkedIn aracılığıyla benimle iletişime geçebilirsin.
 Her zaman öğretmeye ve öğrenmeye açığım.
 
