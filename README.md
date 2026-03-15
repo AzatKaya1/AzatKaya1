@@ -1,31 +1,56 @@
-# 👋 Merhaba! Ben Azat KAYA
+# Merhaba, Ben Azat Kaya! 👋
 
-Elektrik Elektronik Mühendisliği lisans eğitimime devam ediyorum. Otonom sistemler, gömülü sistemler ve yazılım-donanım entegrasyonu alanlarında kendimi geliştirmeye odaklanan bir mühendis adayıyım.
+İstanbul Gelişim Üniversitesi Elektrik-Elektronik Mühendisliği bölümünde lisans eğitimime devam ediyorum (2023-2027). Savunma sanayii teknolojileri kapsamında gömülü sistemler ve robotik yazılım geliştirme alanlarında kariyer hedefleyen tutkulu bir mühendis adayıyım. 
 
-Kariyer hedefim ise otonom sistemler başta olmak üzere savunma, ulaşım, endüstri ve akıllı sistemler alanlarında, yazılım dillerini aktif kullanarak elektronik temelli projeler geliştiren bir mühendis olmaktır.
+## 🚀 Neler Yapıyorum?
+* **STM32** mikrodenetleyicileri ile donanım seviyesinde gömülü yazılım projeleri geliştiriyorum.
+* **ESP32** ile Wi-Fi ve Bluetooth protokolleri üzerinden yapay zeka tabanlı IoT uygulamaları tasarlıyorum.
+* **ROS2** ve **Gazebo** kullanarak otonom robotik sistemlerin simülasyonu üzerine aktif olarak çalışıyorum.
 
-## 🎓 İstanbul Gelişim Üniversitesi -⚡ Elektrik Elektronik Mühendisliği 3. Sınıf
+## 🛠️ Teknoloji Yığını ve Yetenekler
 
-🛠️ İlgi Alanlarım
+### Diller
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-	•	🤖 Otonom ve akıllı sistemler
-	
-	•	💻 Yazılım & Donanım entegrasyonu
-	
-	•	⚡ Gömülü sistemler
-	
-	•	🧠 Algoritmalar & kontrol sistemleri
-	
-	•	🚗 Otonom araç teknolojileri
-	
-	•	🔬 Ar-Ge ve mühendislik projeleri
+### Gömülü Sistemler & Donanım
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-%232C94E6.svg?style=for-the-badge&logo=kicad&logoColor=white)
+![I2C/SPI/UART](https://img.shields.io/badge/I2C%20/%20SPI%20/%20UART-8A2BE2?style=for-the-badge)
 
+### Robotik & Simülasyon
+![ROS2](https://img.shields.io/badge/ros2-%2322314E.svg?style=for-the-badge&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-FFB800?style=for-the-badge&logo=gazebo&logoColor=white)
 
-📌  LinkedIn aracılığıyla veya Instagram üzerinden benimle iletişime geçebilirsin.
+## 💻 Öne Çıkan Projeler
+
+**🚁 ROS2 & Gazebo Drone Kontrol Simülasyonu (Mart 2026)**
+* İTÜ Robotics Kulübü bünyesinde düzenlenen ROS2 eğitimi kapsamında ArduPilot tabanlı drone kontrol simülasyonu geliştirdim. 
+* ROS2 ile Gazebo simülasyon ortamını entegre ederek kalkış, iniş ve yön değiştirme gibi uçuş hareketlerini modelledim. 
+* ROS2 topic ve node yapısını kullanarak drone'a komut gönderme ve veri okuma altyapısı kurdum.
+
+**🤖 ESP32 Tabanlı Yapay Zeka Robotu (Kasım 2025)**
+* ESP32 mikrodenetleyicisi üzerine yapay zeka tabanlı bir sesli asistan robotu inşa ettim. 
+* I2C protokolü ile OLED ekran entegre ederek cihazın durumunu gerçek zamanlı olarak görüntüledim. 
+* Mikrofon modülü üzerinden alınan sesi yapay zeka API'sine gönderdim ve amplifikatör devresiyle optimize edilmiş hoparlör üzerinden sesli yanıtlar aldım. 
+* Wi-Fi protokolü aracılığıyla Doğal Dil İşleme (NLP) yeteneklerini sisteme dahil ettim.
+
+**⚡ KiCad PCB Tasarım Projesi (Şubat 2026)**
+* İTÜ Robotics Kulübü eğitimi kapsamında datasheet incelemeleri yaparak elektronik şematik tasarımlar oluşturdum. 
+* Bu tasarımları PCB ortamına taşıyarak routing işlemlerini ve katman yönetimini sağladım. 
+* Motor sürücü devresi ve Sequential Timer projelerini tamamladım ve üretici gereksinimlerine uygun olarak Gerber dosyalarını dışa aktardım.
+
+## 📬 İletişim & Bağlantılar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/azatkayal)
+[![Email](https://img.shields.io/badge/Email-kaya58azat@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaya58azat@gmail.com)
+📌  LinkedIn aracılığıyla benimle iletişime geçebilirsin.
 Her zaman öğretmeye ve öğrenmeye açığım.
 
-📫 Aşağıdaki bağlantılardan bana ulaşabilirsin.
+📫 Aşağıdaki bağlantıdan bana ulaşabilirsin.
 
 [LinkedIn](https://www.linkedin.com/in/azatkaya1/)
 
-[Instagram](https://www.instagram.com/azaatkaya?igsh=Z3c1eGFiMzlva2l3&utm_source=qr)
+
