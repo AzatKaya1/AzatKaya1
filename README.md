@@ -9,16 +9,16 @@
 * **ESP32** ile Wi-Fi ve Bluetooth protokolleri üzerinden yapay zeka tabanlı IoT uygulamaları tasarlıyorum.
 ## 🛠️ Teknoloji Yığını ve Yetenekler
 
-### Diller
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
 ### Gömülü Sistemler & Donanım
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-%232C94E6.svg?style=for-the-badge&logo=kicad&logoColor=white)
 ![I2C/SPI/UART](https://img.shields.io/badge/I2C%20/%20SPI%20/%20UART-8A2BE2?style=for-the-badge)
+
+### Diller
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Robotik & Simülasyon
 ![ROS2](https://img.shields.io/badge/ros2-%2322314E.svg?style=for-the-badge&logo=ros&logoColor=white)
