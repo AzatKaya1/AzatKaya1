@@ -5,8 +5,8 @@
 
 ## 🚀 Neler Yapıyorum?
 * **ROS2** ve **Gazebo** kullanarak otonom robotik sistemlerin simülasyonu üzerine aktif olarak çalışıyorum.
-* **ESP32** ile Wi-Fi ve Bluetooth protokolleri üzerinden yapay zeka tabanlı IoT uygulamaları tasarlıyorum.
 * **STM32** mikrodenetleyicileri ile donanım seviyesinde gömülü yazılım projeleri geliştiriyorum.
+* **ESP32** ile Wi-Fi ve Bluetooth protokolleri üzerinden yapay zeka tabanlı IoT uygulamaları tasarlıyorum.
 ## 🛠️ Teknoloji Yığını ve Yetenekler
 
 ### Diller
@@ -24,12 +24,6 @@
 ![ROS2](https://img.shields.io/badge/ros2-%2322314E.svg?style=for-the-badge&logo=ros&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-FFB800?style=for-the-badge&logo=gazebo&logoColor=white)
 
-## 📊 GitHub İstatistiklerim
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AzatKayal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub İstatistikleri" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzatKayal&layout=compact&theme=tokyonight&hide_border=true" alt="En Çok Kullanılan Diller" />
-</div>
 
 ## 💻 Öne Çıkan Projeler
 
