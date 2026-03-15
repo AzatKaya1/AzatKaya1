@@ -4,10 +4,12 @@
 İstanbul Gelişim Üniversitesi Elektrik-Elektronik Mühendisliği bölümünde lisans eğitimine devam eden, savunma sanayii teknolojileri kapsamında gömülü sistemler ve robotik yazılım geliştirme alanlarında kariyer hedefleyen tutkulu bir mühendis adayıyım. 
 
 ## 🚀 Neler Yapıyorum?
+
 * **ROS2** ve **Gazebo** kullanarak otonom robotik sistemlerin simülasyonu üzerine aktif olarak çalışıyorum.
 * **STM32** mikrodenetleyicileri ile donanım seviyesinde gömülü yazılım projeleri geliştiriyorum.
 * **ESP32** ile Wi-Fi ve Bluetooth protokolleri üzerinden yapay zeka tabanlı IoT uygulamaları tasarlıyorum.
-## 🛠️ Teknoloji Yığını ve Yetenekler
+  
+## 🛠️ Yetenekler
 
 ### Gömülü Sistemler & Donanım
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
