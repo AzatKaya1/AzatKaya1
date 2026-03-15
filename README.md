@@ -1,4 +1,4 @@
-# Merhaba, Ben Azat Kaya! 👋
+# Merhaba, Ben Azat KAYA! 
 
 
 İstanbul Gelişim Üniversitesi Elektrik-Elektronik Mühendisliği bölümünde lisans eğitimime devam ediyorum (2023-2027). Savunma sanayii teknolojileri kapsamında gömülü sistemler ve robotik yazılım geliştirme alanlarında kariyer hedefleyen tutkulu bir mühendis adayıyım. 
