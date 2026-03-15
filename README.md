@@ -50,18 +50,13 @@
 ## 📬 İletişim & Bağlantılar
 
 <div align="center">
-  <a href="https://linkedin.com/in/azatkayal">
+  <a href="https://linkedin.com/in/azatkaya1">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  
   <a href="mailto:kaya58azat@gmail.com">
     <img src="https://img.shields.io/badge/Email-kaya58azat@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
-📌  LinkedIn aracılığıyla benimle iletişime geçebilirsin.
-Her zaman öğretmeye ve öğrenmeye açığım.
-
-📫 Aşağıdaki bağlantıdan bana ulaşabilirsin.
-
-[LinkedIn](https://www.linkedin.com/in/azatkaya1/)
 
 
