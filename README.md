@@ -1,5 +1,5 @@
 # Merhaba, Ben Azat Kaya! 👋
-![Profile Views](https://komarev.com/ghpvc/?username=AzatKayal&color=00599C&style=flat-square&label=ZİYARETÇİ+SAYISI)
+
 
 İstanbul Gelişim Üniversitesi Elektrik-Elektronik Mühendisliği bölümünde lisans eğitimime devam ediyorum (2023-2027). Savunma sanayii teknolojileri kapsamında gömülü sistemler ve robotik yazılım geliştirme alanlarında kariyer hedefleyen tutkulu bir mühendis adayıyım. 
 
