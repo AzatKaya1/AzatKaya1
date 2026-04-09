@@ -1,6 +1,8 @@
 ![Visitor Badge](https://komarev.com/ghpvc/?username=AzatKaya1&color=blue&style=flat-square)
 
-![Azat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzatKayal&show_icons=true&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AzatKaya1&theme=dark&hide_border=true" />
+</div>
 
 # Merhaba, Ben Azat KAYA! 
 
@@ -44,9 +46,10 @@
 ## 💻 Öne Çıkan Projeler
 
 **ROS2 & Gazebo & RViz Uzaktan Kontrollü Araba (Mart 2026)**
-* URDF ile 3 tekerlekli, 7.5 kg kütleli fizik tabanlı bir araç modeli tanımladım.
-* ROS2-Gazebo köprüsü üzerinden 5 farklı hareket komutuyla klavye yardımıyla uzaktan kontrol sağladım.
-* Aracı RViz üzerinde görselleştirerek tekerlek kontrolü ve çarpışma özelliklerini test ettim.
+* URDF ile 3 tekerlekli araç modelini tanımlayarak RViz’de görselleştirdim ve tekerlek kontrolü sağladım.
+* Her bileşene agırlık ve çarpışma özellikleri ekleyerek toplam 7.5 kg kütleli fizik tabanlı model oluşturdum.
+* ROS2 ve Gazebo köprüsü üzerinden 5 farklı hareket komutuyla (ileri/geri/sağ/sol/dur) klavye ile uzaktan kontrol
+sağladım.
 
 **ROS2 & Gazebo Drone Kontrol Simülasyonu (Mart 2026)**
 * İTÜ Robotics Kulübü bünyesinde düzenlenen ROS2 eğitimi kapsamında ArduPilot tabanlı drone kontrol simülasyonu geliştirdim. 
