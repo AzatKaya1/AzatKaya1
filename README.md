@@ -1,6 +1,6 @@
 ![Visitor Badge](https://komarev.com/ghpvc/?username=AzatKaya1&color=blue&style=flat-square)
 
-
+![Azat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzatKayal&show_icons=true&theme=tokyonight)
 
 # Merhaba, Ben Azat KAYA! 
 
@@ -11,18 +11,17 @@
 
 * İTÜ AnthRo Kulübü Kontrol ve Sistem Takımı bünyesinde "**Robot Köpek**" projesi üzerinde aktif olarak çalışıyorum.
 * İGÜ Teknoloji Transfer Ofisi'nde Elektronik ve Yazılım Ekibi bünyesinde "**İnsansız Hava Araçları (İHA)**" ve "**Robot Kol**" sistemleri geliştiriyorum.
-* Otonom Sistemler alanında "**ROS2,**" "**Gazebo**" ve "**RViz**" gibi uygulamalar kullanarak otonom robotik simülasyonlar üzerine odaklanıyorum.
+* Otonom Sistemler alanında "**ROS2,** **Gazebo** ve **RViz**" gibi uygulamalar kullanarak otonom robotik simülasyonlar üzerine odaklanıyorum.
 * Gömülü Yazılım alanında "**STM32**" mikrodenetleyicileri ile donanım seviyesinde projeler ve "**ESP32**" ile yapay zeka tabanlı IoT uygulamaları tasarlıyorum.
   
 ## 🛠️ Yetenekler
 
 ### Gömülü Sistemler & Donanım
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00979D?style=for-the-badge)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-%232C94E6.svg?style=for-the-badge&logo=kicad&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00979D?style=for-the-badge)
-
 
 ### Robotik & Simülasyon
 ![ROS2](https://img.shields.io/badge/ros2-%2322314E.svg?style=for-the-badge&logo=ros&logoColor=white)
@@ -55,10 +54,10 @@
 * ROS2 topic ve node yapısını kullanarak drone'a komut gönderme ve veri okuma altyapısı kurdum.
   
 **KiCad PCB Tasarım Projesi (Şubat 2026)**
-• İTÜ Robotics Kulübü bünyesinde düzenlenen KiCad eğitimi kapsamında datasheet inceleyerek şematik tasarım geliştirdim.
-• Şematik tasarımı PCB ortamına aktararak routing işlemini ve katman yönetimini gerçekleştirdim.
-• Motor sürücü, Sequential Timer ve ESP32-S3-WROOM-1 kartı devrelerini KiCad ile tasarladım.
-• Üretim aşamasına hazır Gerber dosyalarını PCB firması gereksinimlerine göre düzenleyerek zip formatında dışa aktardım.
+* İTÜ Robotics Kulübü bünyesinde düzenlenen KiCad eğitimi kapsamında datasheet inceleyerek şematik tasarım geliştirdim.
+* Şematik tasarımı PCB ortamına aktararak routing işlemini ve katman yönetimini gerçekleştirdim.
+* Motor sürücü, Sequential Timer ve ESP32-S3-WROOM-1 kartı devrelerini KiCad ile tasarladım.
+* Üretim aşamasına hazır Gerber dosyalarını PCB firması gereksinimlerine göre düzenleyerek zip formatında dışa aktardım.
 
 **ESP32 Tabanlı Yapay Zeka Robotu (Kasım 2025)**
 * ESP32 mikrodenetleyicisi üzerine yapay zeka tabanlı bir sesli asistan robotu inşa ettim. 
