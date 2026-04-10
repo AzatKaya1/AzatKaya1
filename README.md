@@ -73,7 +73,7 @@ sağladım.
 
 ## 🎓 Eğitim
 * **İstanbul Gelişim Üniversitesi** | Elektrik-Elektronik Mühendisliği (Lisans) 
-* Ekim 2023 - Haziran 2027 (Beklenen)
+* Eylül 2023 - Haziran 2027 (Beklenen)
 
 
 ## 📬 İletişim & Bağlantılar
