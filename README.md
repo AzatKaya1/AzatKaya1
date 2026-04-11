@@ -1,4 +1,3 @@
-![Visitor Badge](https://komarev.com/ghpvc/?username=AzatKaya1&color=blue&style=flat-square)
 
 
 <p align="center">
