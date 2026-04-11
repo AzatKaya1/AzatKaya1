@@ -1,8 +1,4 @@
-
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AzatKaya1&theme=gruvbox-duo&hide_border=true" alt="GitHub Streak" />
-</p>
+![Visitor Badge](https://komarev.com/ghpvc/?username=AzatKaya1&color=blue&style=flat-square)
 
 
 
